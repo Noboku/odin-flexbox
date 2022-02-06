@@ -64,7 +64,7 @@ h1 {
 .front {
   display: flex;
   /* justify-content: space-between; */
-  gap: 200px;
+  /* gap: 200px; */
   padding-top: 65px;
 }
 
@@ -74,7 +74,7 @@ h1 {
   gap: 16px;
   width: 50%;
   justify-content: center;
-  /* padding: 16px 32px; */
+  padding: 16px 32px;
 }
 
 .front-content p {
@@ -82,8 +82,9 @@ h1 {
 }
 
 .front-image {
-  width: 650px;
-  height: 350px;
+  width: 850px;
+  /* height: 350px; */
+  height: 375px;
 }
 
 .btn-1 {
