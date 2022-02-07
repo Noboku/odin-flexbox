@@ -210,6 +210,11 @@ h4 {
   border: 2px solid #f9faf8;
 }
 
+.sign-up .btn-1:hover {
+  background-color: #f9faf8;
+  color: #3882f6;
+}
+
 /* Footer Section */
 
 .footer {
