@@ -84,6 +84,7 @@ h4 {
   width: 50%;
   justify-content: center;
   padding: 16px 32px;
+  margin-right: 30px;
 }
 
 .front-content p {
@@ -91,8 +92,8 @@ h4 {
 }
 
 .front-image {
-  width: 850px;
-  height: 375px;
+  width: 700px;
+  height: 350px;
 }
 
 .btn-1 {
@@ -206,4 +207,19 @@ h4 {
 
 .sign-up .btn-1 {
   border: 2px solid #f9faf8;
+}
+
+/* Footer Section */
+
+.footer {
+  background-color: #1f2937;
+  height: 72px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-text {
+  text-align: center;
+  color: #f9faf8;
 }
